@@ -77,7 +77,6 @@ int main(int argc, const char * argv[]) {
     
     //Traverse
     std::cout<<"Test completed"<<std::endl;
-    std::cout<<"Test completed"<<std::endl;
     return 0;
 }
 
